@@ -1,132 +1,177 @@
-Project Name: HelloWorld
+01/26/24 Fri 22:31 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:31 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:31 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:31 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:31 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:31 - INFO: Runtime on App.class, output = Hello, World!
 
-bin folder: ./HelloWorld/bin
-Java Files: ./HelloWorld/src/App.java
-Java Files: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:18:21,624 Project Name: HelloWorld
+01/26/24 Fri 22:38 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:38 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:38 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:38 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:38 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:38 - INFO: Runtime on App.class, output = Hello, World!
 
-2024-01-26 21:18:21,624 bin folder: ./HelloWorld/bin
-2024-01-26 21:18:21,624 Java Files: ./HelloWorld/src/App.java
-2024-01-26 21:18:21,624 Java Files: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:19:42,515 Project Name: HelloWorld
+01/26/24 Fri 22:40 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:40 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:40 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:40 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:40 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:40 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:41 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:41 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:41 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:41 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:41 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:41 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:41 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:41 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:41 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:41 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:41 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:41 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:41 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:41 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:41 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:41 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:41 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:41 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:42 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:42 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:42 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:42 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:42 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:42 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:42 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:42 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:42 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:42 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:42 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:42 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:42 - INFO: Runtime on App.class, output = Hello, World!
 
-2024-01-26 21:19:42,515 bin folder: ./HelloWorld/bin
-2024-01-26 21:19:42,515 Java Files: ./HelloWorld/src/App.java
-2024-01-26 21:19:42,515 Java Files: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:20:33,490 Project Name: HelloWorld
-2024-01-26 21:20:33,490 bin folder: ./HelloWorld/bin
-2024-01-26 21:20:33,490 Java Files: ./HelloWorld/src/App.java
-2024-01-26 21:20:33,490 Java Files: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:20:43,494 
- Project Name: HelloWorld
-2024-01-26 21:20:43,494 bin folder: ./HelloWorld/bin
-2024-01-26 21:20:43,494 Java Files: ./HelloWorld/src/App.java
-2024-01-26 21:20:43,494 Java Files: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:22:11,495 
+01/26/24 Fri 22:44 - INFO: 
     Project Name: HelloWorld
-2024-01-26 21:22:11,495 bin folder: ./HelloWorld/bin
-2024-01-26 21:22:11,495 java path file: ./HelloWorld/src/App.java
-2024-01-26 21:22:11,495 java path file: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:22:33,807 
+01/26/24 Fri 22:44 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:44 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:44 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:44 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:44 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:44 - ERROR: None
+01/26/24 Fri 22:44 - ERROR: None
+01/26/24 Fri 22:44 - INFO: 
     Project Name: HelloWorld
-2024-01-26 21:22:33,807 bin folder: ./HelloWorld/bin
-2024-01-26 21:22:33,807 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:22:33,807 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:27:29,467 
-    Project Name: HelloWorld
-2024-01-26 21:27:29,467 bin folder: ./HelloWorld/bin
-2024-01-26 21:27:29,467 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:27:29,467 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:27:52,020 
-    Project Name: HelloWorld
-2024-01-26 21:27:52,020 bin folder: ./HelloWorld/bin
-2024-01-26 21:27:52,020 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:27:52,020 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:28:10,975 
-    Project Name: HelloWorld
-2024-01-26 21:28:10,975 bin folder: ./HelloWorld/bin
-2024-01-26 21:28:10,975 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:28:10,975 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:28:11,696 Error: Error: Could not find or load main class ..HelloWorld.src.App.java
+01/26/24 Fri 22:44 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:44 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:44 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:44 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:44 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:44 - INFO: Runtime on App.class, output = Hello, World!
 
-2024-01-26 21:28:58,906 
-    Project Name: HelloWorld
-2024-01-26 21:28:58,906 bin folder: ./HelloWorld/bin
-2024-01-26 21:28:58,906 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:28:58,906 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:28:59,659 Error: Error: Could not find or load main class ..HelloWorld.src.App.java
+01/26/24 Fri 22:44 - INFO: Runtime on App2.class, output = Hello, World!
 
-2024-01-26 21:29:19,373 
+01/26/24 Fri 22:46 - INFO: 
     Project Name: HelloWorld
-2024-01-26 21:29:19,373 bin folder: ./HelloWorld/bin
-2024-01-26 21:29:19,373 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:29:19,373 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:29:20,105 Error: Error: Could not find or load main class ..HelloWorld.src.App.java
+01/26/24 Fri 22:46 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:46 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:46 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:46 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:46 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:46 - INFO: Runtime on App.class, output = Hello, World!
 
-2024-01-26 21:29:33,124 
-    Project Name: HelloWorld
-2024-01-26 21:29:33,124 bin folder: ./HelloWorld/bin
-2024-01-26 21:29:33,124 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:29:33,124 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:29:33,854 Error: Error: Could not find or load main class ..HelloWorld.src.App.java
+01/26/24 Fri 22:46 - INFO: Runtime on App2.class, output = Hello, World!
 
-2024-01-26 21:31:01,648 
+01/26/24 Fri 22:46 - INFO: 
     Project Name: HelloWorld
-2024-01-26 21:31:01,648 bin folder: ./HelloWorld/bin
-2024-01-26 21:31:01,648 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:31:01,648 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:31:02,282 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:31:02,384 Error: Error: Could not find or load main class ..HelloWorld.src.App.java
+01/26/24 Fri 22:46 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:46 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:46 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:46 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:46 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:46 - INFO: Runtime on App.class, output = Hello, World!
 
-2024-01-26 21:36:56,697 
-    Project Name: HelloWorld
-2024-01-26 21:36:56,697 bin folder: ./HelloWorld/bin
-2024-01-26 21:36:56,697 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:36:56,697 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:36:57,325 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:37:49,572 
-    Project Name: HelloWorld
-2024-01-26 21:37:49,572 bin folder: ./HelloWorld/bin
-2024-01-26 21:37:49,572 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:37:49,572 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:37:50,197 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:38:02,636 
-    Project Name: HelloWorld
-2024-01-26 21:38:02,636 bin folder: ./HelloWorld/bin
-2024-01-26 21:38:02,636 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:38:02,636 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:38:03,274 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:38:15,510 
-    Project Name: HelloWorld
-2024-01-26 21:38:15,510 bin folder: ./HelloWorld/bin
-2024-01-26 21:38:15,510 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:38:15,510 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:38:16,146 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:38:40,862 
-    Project Name: HelloWorld
-2024-01-26 21:38:40,862 bin folder: ./HelloWorld/bin
-2024-01-26 21:38:40,862 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:38:40,862 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:38:41,486 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:38:57,328 
-    Project Name: HelloWorld
-2024-01-26 21:38:57,328 bin folder: ./HelloWorld/bin
-2024-01-26 21:38:57,328 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:38:57,328 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:38:57,952 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:39:16,167 
-    Project Name: HelloWorld
-2024-01-26 21:39:16,167 bin folder: ./HelloWorld/bin
-2024-01-26 21:39:16,167 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:39:16,167 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:39:16,801 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:39:16,913 Error: Error: Could not find or load main class App.class
+01/26/24 Fri 22:46 - INFO: Runtime on App2.class, output = Hello, World!
 
-2024-01-26 21:40:31,208 
+01/26/24 Fri 22:47 - INFO: 
     Project Name: HelloWorld
-2024-01-26 21:40:31,208 bin folder: ./HelloWorld/bin
-2024-01-26 21:40:31,208 java file path: ./HelloWorld/src/App.java
-2024-01-26 21:40:31,208 java file path: ./HelloWorld/src/anotherFolder/App2.java
-2024-01-26 21:40:31,829 Compilation Successful: ./HelloWorld/src/App.java
-2024-01-26 21:40:31,936 Error: Could not find or load main class ..HelloWorld.bin.App.class
+01/26/24 Fri 22:47 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:47 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:47 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:47 - ERROR: None
+01/26/24 Fri 22:47 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:48 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:48 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:48 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:48 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:48 - ERROR: None
+01/26/24 Fri 22:48 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:48 - INFO: Runtime on App2.class, output = Hello, World!
+
+01/26/24 Fri 22:49 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:49 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:49 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:49 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:50 - ERROR: Compilation Error: None
+01/26/24 Fri 22:50 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:50 - INFO: Runtime on App2.class, output = Hello, World!
+
+01/26/24 Fri 22:51 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:51 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:51 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:51 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:51 - ERROR: Compilation Error: ./HelloWorld/src/App.java
+01/26/24 Fri 22:51 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:51 - INFO: Runtime on App2.class, output = Hello, World!
+
+01/26/24 Fri 22:52 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:52 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:52 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:52 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:52 - ERROR: Compilation Error: ./HelloWorld/src/App.java
+01/26/24 Fri 22:52 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:52 - INFO: Runtime on App2.class, output = Hello, World!
+
+01/26/24 Fri 22:53 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:53 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:53 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:53 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:53 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:53 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:53 - INFO: Runtime on App.class, output = Hello, World!
+
+01/26/24 Fri 22:53 - INFO: Runtime on App2.class, output = Hello, World!
+
+01/26/24 Fri 22:54 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:54 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:54 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:54 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:54 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:54 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:54 - INFO: Runtime on App.class, output = Hello, World!
+
+01/26/24 Fri 22:54 - INFO: Runtime on App2.class, output = Hello, World!
+
+01/26/24 Fri 22:54 - INFO: 
+    Project Name: HelloWorld
+01/26/24 Fri 22:54 - INFO: bin folder: ./HelloWorld/bin
+01/26/24 Fri 22:54 - INFO: ./HelloWorld/src/App.java
+01/26/24 Fri 22:54 - INFO: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:54 - INFO: Compilation Successful: ./HelloWorld/src/App.java
+01/26/24 Fri 22:54 - INFO: Compilation Successful: ./HelloWorld/src/anotherFolder/App2.java
+01/26/24 Fri 22:54 - INFO: Runtime on App.class, output = 
+01/26/24 Fri 22:54 - INFO: Runtime on App2.class, output = Hello, World!
 
